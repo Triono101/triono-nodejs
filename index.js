@@ -96,7 +96,7 @@
         }
 
         const home = res => {
-            res.end("<h1>Home Page</h1>");
+            res.end("<h1>Home Page belajar Node Js</h1>");
         }
 
     server.listen(3000, () => console.log("Server running at http://127.0.0.1:3000"));
